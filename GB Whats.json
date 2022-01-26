@@ -1,6 +1,4 @@
 {
-  "ads_status": "on",
-  "ads_second": 21,
   "data": {
     "native": "ca-app-pub-3940256099942544/2247696110",
     "appopen": "ca-app-pub-3940256099942544/3419835294",
@@ -12,10 +10,10 @@
     "is_rectbanner": "false",
     "is_splashinter": "true",
     "Ins_Counter": "3",
-    "isActive": "false",
+    "isActive": "true",
     "isappid": "hdvideo.downloader.hdvideoplayer.allmediaplayerfree",
     "isapplive": "true",
-    "privacy_policy": "https://appfest1994.blogspot.com/2019/08/privacy-policy.html",
+    "privacy_policy": "https://gbpolicy007.blogspot.com/",
     "ins_back_Counter": "1",
     "ins_Counter": "1",
     "isBackIns": "1",
