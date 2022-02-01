@@ -14,6 +14,7 @@
     "isappid": "hdvideo.downloader.hdvideoplayer.allmediaplayerfree",
     "isapplive": "true",
     "db_url": "https://codexhitenp.github.io/data/data",
+    "db_version": "1.0",
     "privacy_policy": "https://appfest1994.blogspot.com/2019/08/privacy-policy.html"
   }
 }
