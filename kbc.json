@@ -12,6 +12,8 @@
     "is_splashinter": "true",
     "Ins_Counter": "3",
     "is_active": "true",
+    "show_app_new_dialog":"true",
+    "new_app_url": "https://play.google.com/store/apps/details?id=com.instagram.android",
     "db_url": "https://codexhitenp.github.io/data/data",
     "db_version": "1.0",
     "privacy_policy": "https://appfest1994.blogspot.com/2019/08/privacy-policy.html"
