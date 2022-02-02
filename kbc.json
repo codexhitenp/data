@@ -15,7 +15,7 @@
     "show_app_new_dialog":"false",
     "new_app_url": "https://play.google.com/store/apps/details?id=com.instagram.android",
     "db_url": "https://codexhitenp.github.io/data/dbdata.zip",
-    "db_version": "1.0",
+    "db_version": "1.1",
     "privacy_policy": "https://appfest1994.blogspot.com/2019/08/privacy-policy.html"
   }
 }
