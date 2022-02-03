@@ -12,7 +12,7 @@
     "ins_back_counter": "5",
     "first_screen_show": "false",
     "second_screen_show": "true",
-    "show_app_new_dialog": "true",
+    "show_app_new_dialog": "false",
     "new_app_url": "https://play.google.com/store/apps/details?id=com.instagram.android"
   }
 }
