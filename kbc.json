@@ -16,6 +16,9 @@
     "new_app_url": "https://play.google.com/store/apps/details?id=com.instagram.android",
     "db_url": "https://codexhitenp.github.io/data/dbdata.zip",
     "db_version": "1.0",
-    "privacy_policy": "https://appfest1994.blogspot.com/2019/08/privacy-policy.html"
-  }
+    "privacy_policy": "https://appfest1994.blogspot.com/2019/08/privacy-policy.html",
+    "disclaimer_title":"Disclaimer",
+    "disclaimer":"This game does not represent any official tv channel and we do not provide any real cash or cheque through this game. This is a simple Quiz type game only made for purpose of improve general knowledge of our users. Drop us an email if you have any dispute.",
+    "note":"KBC in Hindi has been launched successfully here with latest general knowledge questions for new season. If you don't know answer then don't worry. We will tell you right answer. We will update questions at least once in month, so you only receive new questions. KBC play alone In Hindi will ask questions from Films, Current affairs, and all the fields like Mythology, Astrology, Geography, Astronomy, Maths, Reasoning and Biology."
+ }
 }
