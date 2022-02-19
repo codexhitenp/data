@@ -3,8 +3,8 @@
     "languages":
     [  
       {"code":"2","name":"English","isactive":"true"},
-      {"code":"1","name":"Hindi","isactive":"true"},
-      {"code":"3","name":"Gujarati","isactive":"true"}
+      {"code":"1","name":"हिन्दी","isactive":"true"},
+      {"code":"3","name":"ગુજરાતી","isactive":"true"}
     ],  
     "native": "ca-app-pub-3940256099942544/2247696110",
     "appopen": "ca-app-pub-3940256099942544/3419835294",
