@@ -15,7 +15,7 @@
     "is_guide": "true",
     "is_guide_ins_ads": "true",
     "is_launch": "false",
-    "is_native_video": "false",
+    "is_native_video": "true",
     "is_splashinter": "true",
     "symbol": "$",
     "Ins_Counter": "3",
