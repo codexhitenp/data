@@ -16,6 +16,7 @@
     "is_guide_ins_ads": "true",
     "is_language_ins_ads": "true",
     "is_lifeline_ins_ads": "true",
+    "is_scorescreen_ins_ads": "true",
     "is_native_video": "true",
     "symbol": "$",
     "ins_counter": "3",
