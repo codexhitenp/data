@@ -5,7 +5,7 @@
       {"code":"2","name":"English","isactive":"true"},
       {"code":"1","name":"हिन्दी","isactive":"true"},
       {"code":"3","name":"ગુજરાતી","isactive":"true"},
-      {"code":"4","name":"বাংলা","isactive":"false"},
+      {"code":"4","name":"বাংলা","isactive":"true"},
       {"code":"5","name":"ಕನ್ನಡ","isactive":"false"},
       {"code":"6","name":"മലയാളം","isactive":"false"},
       {"code":"7","name":"தமிழ்","isactive":"false"},
