@@ -24,7 +24,7 @@
     "is_lifeline_ins_ads": "true",
     "is_scorescreen_ins_ads": "true",
     "is_leaderbordscreen_ins_ads": "true",
-    "is_native_video": "true",
+    "is_native_video": "false
     "symbol": "$",
     "ins_counter": "3",
     "is_active": "true",
