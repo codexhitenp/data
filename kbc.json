@@ -6,10 +6,10 @@
       {"code":"1","name":"हिन्दी","isactive":"true"},
       {"code":"3","name":"ગુજરાતી","isactive":"true"},
       {"code":"4","name":"বাংলা","isactive":"true"},
-      {"code":"5","name":"ಕನ್ನಡ","isactive":"false"},
-      {"code":"6","name":"മലയാളം","isactive":"false"},
-      {"code":"7","name":"தமிழ்","isactive":"false"},
-      {"code":"8","name":"తెలుగు","isactive":"false"}
+      {"code":"5","name":"ಕನ್ನಡ","isactive":"true"},
+      {"code":"6","name":"മലയാളം","isactive":"true"},
+      {"code":"7","name":"தமிழ்","isactive":"true"},
+      {"code":"8","name":"తెలుగు","isactive":"true"}
     ],  
     "native": "ca-app-pub-3940256099942544/2247696110",
     "appopen": "ca-app-pub-3940256099942544/3419835294",
