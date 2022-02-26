@@ -27,7 +27,7 @@
     "is_native_video": "false",
     "symbol": "₹",
     "ins_counter": "3",
-    "is_active": "true",
+    "is_active": "false",
     "show_app_new_dialog":"false",
     "new_app_url": "https://play.google.com/store/apps/details?id=com.instagram.android",
     "db_url": "https://codexhitenp.github.io/data/dbdata.zip",
