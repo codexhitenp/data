@@ -1,6 +1,6 @@
 {
   "data": {
-    "is_active": "true",
+    "is_active": "false",
     "languages":
     [  
       {"code":"2","name":"English","isactive":"true"},
@@ -30,7 +30,7 @@
     "is_lifeline_ins_ads": "false",
     "is_scorescreen_ins_ads": "false",
     "is_leaderbordscreen_ins_ads": "false",
-    "is_native_video": "true",
+    "is_native_video": "false",
     "symbol": "₹",
     "ins_counter": "3",
     "show_app_new_dialog":"false",
