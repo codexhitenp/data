@@ -24,7 +24,7 @@
     "ads_click": "3",
     "is_open_active": "true",
     "is_guide": "true",
-    "is_guide_ins_ads": "true",
+    "is_guide_ins_ads": "false",
     "is_language_ins_ads": "false",
     "is_lifeline_ins_ads": "false",
     "is_scorescreen_ins_ads": "false",
