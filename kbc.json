@@ -1,6 +1,6 @@
 {
   "data": {
-    "is_active": "false",
+    "is_active": "true",
     "languages":
     [  
       {"code":"2","name":"English","isactive":"true"},
@@ -17,7 +17,7 @@
     "banner": "/22387492205,22724190162/com.kbc.gk.quiz.world.hindi.english.Banner0.1650955927",
     "interstitial": "/22387492205,22724190162/com.kbc.gk.quiz.world.hindi.english.Interstitial0.1650955983",
     "rewarded": "/22387492205,22724190162/com.kbc.gk.quiz.world.hindi.english.Rewarded0.1650956015",
-    "ads_type": "google",
+    "ads_type": "Max",
     "native_max": "1469455862977fc9",
     "banner_max": "00c6e63d9a1565da",
     "interstitial_max": "511bbfecd1594201",
@@ -25,7 +25,7 @@
     "ads_click": "3",
     "is_open_active": "true",
     "is_guide": "true",
-    "is_guide_ins_ads": "false",
+    "is_guide_ins_ads": "true",
     "is_language_ins_ads": "false",
     "is_lifeline_ins_ads": "false",
     "is_scorescreen_ins_ads": "false",
