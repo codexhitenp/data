@@ -1,6 +1,6 @@
 {
   "data": {
-    "is_active": "false",
+    "is_active": "true",
     "languages":
     [  
       {"code":"2","name":"English","isactive":"true"},
@@ -25,7 +25,7 @@
     "ads_click": "3",
     "is_open_active": "true",
     "is_guide": "true",
-    "is_guide_ins_ads": "false",
+    "is_guide_ins_ads": "true",
     "is_language_ins_ads": "false",
     "is_lifeline_ins_ads": "false",
     "is_scorescreen_ins_ads": "false",
